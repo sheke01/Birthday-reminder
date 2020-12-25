@@ -1,1 +1,1 @@
-# Birthday-reminder
+# A basic javascript app using react framework
